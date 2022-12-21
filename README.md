@@ -1,5 +1,3 @@
-# DataCrawling_2022
-2022 DataCrawling Final Project
 <h2>데이터 크롤링 팀 프로젝트2</h2>
 
 <h3>2022년 데이터크롤링수업_팀프로젝트<h3>
@@ -10,3 +8,14 @@
 <p>1. 카카오는 현재 많은 사람들이 사용하고 우리 생활과 밀접해 있는 서비스가 많습니다. </p>
 <p>2. 데이터 센터화재로 인해 큰 주가 변동이 있었던 기업입니다. </p>
 <p>3. 코스피 11위에 달하는 우량주 기업중 하나입니다. </p>
+<hr>
+<h4>데이터 수집</h4>
+<li>뉴스크롤링</li>
+<li>인기종목</li>
+<li>일별시세</li>
+<li>기사 주요단어 TOP100</li>
+<li>키워드 분석</li>
+<li>감성분석</li>
+<hr>
+<h4>PPT자료</h4>
+[수집하조_발표ppt.pptx](https://github.com/Jungminkyung01/Crawling_Project/files/10277293/_.ppt.pptx)
